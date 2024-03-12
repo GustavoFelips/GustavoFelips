@@ -1,25 +1,25 @@
 ![MasterHead](https://www.nuvias.com/wp-content/uploads/2019/09/github-banner.jpg)
 <h1 align="center">Hi 👋, I'm GustavoFelips</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Popppins&pause=1000&color=8E29F7&random=false&width=435&lines=A+web+front-end+developer...;A+programmer...;A+technology+enthusiast...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=19F726&random=false&width=435&lines=I+am+a+technology+enthusiast;I+am+a+back+end+developer;A+programmer)](https://git.io/typing-svg)
 
 I am pursuing my Bachelor's degree in Internet Systems at the Catholic University of Pernambuco. I am very passionate about Machine and Deep Learning. I am always interested in learning and trying new concepts.<br>
 <br>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
 
 
-- 🔭 I'm currently working to develop a deep understanding of web development.
+- 🔭 I am currently working to develop a deep understanding of back end development and data.
 
-- 👯 I'm looking to collaborate on projects to gain experience.
+- 👯 I look to collaborate on projects to gain experience.
 
-- 👨‍💻 I primarily work with JavaScript (JS) and TypeScript (TS).
+- 👨‍💻 I work mainly with Python and data analysis.
 
-- 💬 Feel free to ask me anything; I'd love to help.
+- 💬 Feel free to ask me anything; I would love to help.
 <br>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-beatryz-0508a4233/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-0508a4233/) 
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
