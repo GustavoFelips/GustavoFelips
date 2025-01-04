@@ -23,11 +23,14 @@ Graduated in Internet Systems at the Catholic University of Pernambuco. Always s
 ![Python](https://img.shields.io/badge/python-%2307405e.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%235b5b5b.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/numpy-%23092E20.svg?style=for-the-badge)
+![Flask](https://img.shields.io/badge/flask-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+<br>
 ![SQL](https://img.shields.io/badge/sql-%207405E.svg?style=for-the-badge)
 ![Oracle Database](https://img.shields.io/badge/oracle_database-%23cc0000.svg?style=for-the-badge)
 ![SQL Server](https://img.shields.io/badge/sql_server-%2362bcff.svg?style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+<br>
 ![Java](https://img.shields.io/badge/java-%23F24E1E.svg?style=for-the-badge&logo=Java&logoColor=white)
 
 # 📊 GitHub Stats:
