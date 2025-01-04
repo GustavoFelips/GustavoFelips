@@ -22,8 +22,8 @@ Graduated in Internet Systems at the Catholic University of Pernambuco. Always s
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-%2307405e.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%235b5b5b.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/numpy-%23092E20.svg?style=for-the-badge)
-![Flask](https://img.shields.io/badge/flask-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Numpy](https://img.shields.io/badge/numpy-%23999999.svg?style=for-the-badge)
+![Flask](https://img.shields.io/badge/flask-%23444444.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 <br>
 ![SQL](https://img.shields.io/badge/sql-%207405E.svg?style=for-the-badge)
