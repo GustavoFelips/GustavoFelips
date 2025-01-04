@@ -25,8 +25,8 @@ Graduated in Internet Systems at the Catholic University of Pernambuco. Always s
 ![Numpy](https://img.shields.io/badge/numpy-%23092E20.svg?style=for-the-badge)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%207405E.svg?style=for-the-badge)
-![Oracle Database](https://img.shields.io/badge/oracle%database-%23cc0000.svg?style=for-the-badge)
-![SQL Server](https://img.shields.io/badge/sql%server-%232f9aea.svg?style=for-the-badge)
+![Oracle Database](https://img.shields.io/badge/oracle_database-%23cc0000.svg?style=for-the-badge)
+![SQL Server](https://img.shields.io/badge/sql_server-%2362bcff.svg?style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23F24E1E.svg?style=for-the-badge&logo=Java&logoColor=white)
 
