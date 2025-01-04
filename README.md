@@ -1,4 +1,3 @@
-![MasterHead](https://www.nuvias.com/wp-content/uploads/2019/09/github-banner.jpg)
 <h1 align="center">Hi 👋, I'm GustavoFelips</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&duration=4000&pause=500&color=1BF700&width=435&lines=A+DataBase+Administrator++;I+am+studying+data+analysis;I+am+studying+cloud)](https://git.io/typing-svg)
@@ -23,10 +22,13 @@ Graduated in Internet Systems at the Catholic University of Pernambuco. Always s
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-%2307405e.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%235b5b5b.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/numpy-%23092E20.svg?style=for-the-badge)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%207405E.svg?style=for-the-badge)
+![Oracle Database](https://img.shields.io/badge/oracle%database-%23cc0000.svg?style=for-the-badge)
+![SQL Server](https://img.shields.io/badge/sql%server-%232f9aea.svg?style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23F24E1E.svg?style=for-the-badge&logo=Java&logoColor=white)
-
 
 # 📊 GitHub Stats:
 <p>
